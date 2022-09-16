@@ -1,0 +1,43 @@
+body {
+  background-color:black;
+  font-family:arial;
+  color:white;
+  margin: auto;
+  height: 100%;
+}
+
+h1 {
+  color:grey;
+  font-family:verdana;
+  font-size: 1.55rem;
+  margin-bottom: 2rem;
+}
+
+.maindiv {
+  background-color:white;
+  color:black;
+  width: 500px;
+  padding: 20px;
+  border-radius:25px;
+  margin: 4rem;
+}
+
+.maindiv div {
+  padding-left: 1.4rem;
+}
+
+input {
+  margin-left: 2.8rem;
+}
+
+select {
+  margin-left: 1rem;
+}
+
+#rate {
+  margin-left: 4rem;
+}
+
+#rate_val {
+  line-height: 2rem;
+}
